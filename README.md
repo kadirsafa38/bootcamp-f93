@@ -7,10 +7,10 @@ takım-f93
 ## Takım Elemanları
 
 - Duygu GÖRMEZ      :Scrum Master/developer
-- Saliha Şule BİLGİÇ:developer
+- Saliha Şule BİLGİÇ:Developer
 - Nesrin AKBAYRAK   :Developer
 - Kadir Safa TAPAN  :Project owner/developer
-- Ufuk YERLİSU      :developer
+- Ufuk YERLİSU      :Developer
 
 ## Ürün İsmi
 

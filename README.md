@@ -13,21 +13,20 @@ takım-f93
 - Ufuk YERLİSU      :Developer
 
 ## Ürün İsmi
-
-StudyChain
+BURCUM
 
 ## Ürün Açıklaması
 
-- StudyChain  uygulamamız,insanların günlük yaşam rutinlerini (evde,okulda,iş yerinde,sporda,ders çalışırken vs.) daha etkili bir şekilde planlamasını ve çeşitli bilimsel çalışma tekniklerini (Da vinci metodu,pomodoro tekniği vs.) uygulayarak zaman ve çalışma açısından yüksek verim almasını sağlayacaktır. 
+- İnsanların burçlarının ve o burcun özelliklerini seçtiği burca göre gösteren mini yardımcı uygulama  
 
 ## Ürün Özellikleri
 
-- Farklı çalışma teknikleri ile yol gösterme
-- Zaman yönetimini daha etkili kullanmak için kullanışlı arayüz sağlama
+- Burç özelliklerini gösterme ve bilgi verme
 
 ## Hedef Kitle
 
-- Zamanını ve çalışmalarını daha etkili bir şekilde sürdürmek isteyen herkes kullanabilir.
+- insanların astroloji ve burçlar hakkında merak ettikleri şeyler hakkında bilgi sahibi olmasını sağlar 
+
 
 ## Product Backlog URL
 ---
